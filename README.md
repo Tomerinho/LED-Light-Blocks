@@ -2,7 +2,6 @@
 A Unity Asset I created for Game Devs.<br>
 Check it out here: https://tomerinio.artstation.com/projects/18Dq6Z <br>
 <br>
-<br>
 - Tomerinio<br>
 Look me up:<br>
 ArtStation: https://tomerinio.artstation.com/ <br>
